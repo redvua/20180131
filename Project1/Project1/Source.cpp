@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-	int a = 0;
-	int b = 1;
 	// comment
+	int a;
+	cin >> a;
 	return 0;
 }
